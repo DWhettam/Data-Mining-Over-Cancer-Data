@@ -1,0 +1,35 @@
+﻿<Window x:Class="Data_Mining_Over_Cancer_Data_V2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Data_Mining_Over_Cancer_Data_V2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="j48label" Content="j48" HorizontalAlignment="Left" Margin="43,29,0,0" VerticalAlignment="Top" Width="73" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="nngelabel" Content="NNge" HorizontalAlignment="Left" Margin="43,65,0,0" VerticalAlignment="Top" Width="73" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="distancelabel" Content="Weighted Distance" HorizontalAlignment="Left" Margin="43,101,0,0" VerticalAlignment="Top" Width="155" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="j48Result" Content="None" HorizontalAlignment="Left" Margin="239,34,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="DistanceResult" Content="None" HorizontalAlignment="Left" Margin="239,106,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NNgeResult" Content="None" HorizontalAlignment="Left" Margin="239,70,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="moreDetailButton" Content="More Detail" HorizontalAlignment="Left" Margin="401,245,0,0" VerticalAlignment="Top" Width="93" Click="MoreDetailButton_Click"/>
+        <Button x:Name="generateButton" Content="Generate Recommendations" HorizontalAlignment="Left" Margin="332,279,0,0" VerticalAlignment="Top" Width="162" Click="GenerateButton_Click" IsCancel="True"/>
+        <Label x:Name="recommendationLabel" Content="Recommended Diagnosis:" HorizontalAlignment="Left" Margin="42,149,0,0" VerticalAlignment="Top" Width="232" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="RecommendedDiagnosis" Content="None" HorizontalAlignment="Left" Margin="294,154,0,0" VerticalAlignment="Top" Width="94" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="perfectMatchLabel" Content="Perfect Match Found:" HorizontalAlignment="Left" Margin="44,186,0,0" VerticalAlignment="Top" Width="179" FontSize="16" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="perfectMatch" Content="None" HorizontalAlignment="Left" Margin="239,188,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+
+        <Grid Margin="39,252,309,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="62*"/>
+                <ColumnDefinition Width="107*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="txtNum" x:FieldModifier="private" Margin="-22,27,36,-16" IsReadOnly="True"/>
+            <Button x:Name="cmdUp" x:FieldModifier="private" Margin="26,27,3,-16" Content="˄" Click="CmdUp_Click"/>
+            <Button x:Name="cmdDown" x:FieldModifier="private" Margin="58,27,79,-16"  Content="˅" Click="CmdDown_Click" Grid.ColumnSpan="2" />
+        </Grid>
+        <Label x:Name="givenDiagnosisLabel" Content="Given Diagnosis:" HorizontalAlignment="Left" Margin="44,220,0,0" VerticalAlignment="Top" Width="179" FontSize="16" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="givenDiagnosis" Content="None" HorizontalAlignment="Left" Margin="239,222,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+    </Grid>
+</Window>

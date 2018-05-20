@@ -1,0 +1,44 @@
+﻿<Window x:Class="Data_Mining_Over_Cancer_Data_V2.More_Detail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        xmlns:local="clr-namespace:Data_Mining_Over_Cancer_Data_V2"
+        mc:Ignorable="d"
+        Title="More_Detail" Height="387.377" Width="742.323">
+    <Grid>
+        <Label x:Name="CancerLabel" Content="Distance to Cancer" HorizontalAlignment="Left" Margin="105,51,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="PatientIDLabel" Content="Patient ID: " HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="PatientID" Content="" HorizontalAlignment="Left" Margin="84,8,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.103,0.049" FontWeight="Bold"/>
+        <Label x:Name="PolypLabel" Content="Distance to Polyp" HorizontalAlignment="Left" Margin="252,51,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="NormalLabel" Content="Distance to Normal" HorizontalAlignment="Left" Margin="550,51,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="InfectionLabel" Content="Distance to Infection" HorizontalAlignment="Left" Margin="393,51,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="MinLabel" Content="Minimum:" HorizontalAlignment="Left" Margin="24,95,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="MaxLael" Content="Maximum:" HorizontalAlignment="Left" Margin="24,136,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="MeanLabel" Content="Mean:" HorizontalAlignment="Left" Margin="24,179,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="CancerMin" Content="Label" HorizontalAlignment="Left" Margin="105,95,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NormalMean" Content="Label" HorizontalAlignment="Left" Margin="543,179,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="InfectionMean" Content="Label" HorizontalAlignment="Left" Margin="398,179,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PolypMean" Content="Label" HorizontalAlignment="Left" Margin="252,179,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.816,0.423"/>
+        <Label x:Name="NormalMax" Content="Label" HorizontalAlignment="Left" Margin="543,136,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="InfectionMax" Content="Label" HorizontalAlignment="Left" Margin="398,136,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PolypMax" Content="Label" HorizontalAlignment="Left" Margin="252,136,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CancerMean" Content="Label" HorizontalAlignment="Left" Margin="105,179,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CancerMax" Content="Label" HorizontalAlignment="Left" Margin="105,136,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="InfectionMin" Content="Label" HorizontalAlignment="Left" Margin="398,95,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NormalMin" Content="Label" HorizontalAlignment="Left" Margin="543,95,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PolypMin" Content="Label" HorizontalAlignment="Left" Margin="252,95,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BoxPotButton" Content="View Box Plot" HorizontalAlignment="Left" Margin="24,230,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="BoxPotButton_Click"/>
+        <Button x:Name="DensityPlotButton" Content="View Density Plot" HorizontalAlignment="Left" Margin="159,230,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="DensityPlotButton_Click"/>
+        <Label x:Name="J48RuleAccuracyLabel" Content="J48 Rule Accuracy: " HorizontalAlignment="Left" Margin="25,304,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="NNgeAccuracyLabel" Content="NNge Model Accuracy: " HorizontalAlignment="Left" Margin="418,270,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="J48RuleAccuracy" Content="Label" HorizontalAlignment="Left" Margin="148,304,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.105,-0.038"/>
+        <Label x:Name="NNgeAccuracy" Content="Label" HorizontalAlignment="Left" Margin="555,270,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.105,-0.038"/>
+        <Label x:Name="J48ModelAccuracyLabel" Content="J48 Model Accuracy: " HorizontalAlignment="Left" Margin="25,278,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="J48ModelAccuracy" Content="Label" HorizontalAlignment="Left" Margin="148,278,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.105,-0.038"/>
+        <Button x:Name="NNgeRulesButton" Content="View NNge Rules" HorizontalAlignment="Left" Margin="295,230,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="NNgeRulesButton_Click"/>
+        <Button x:Name="J48RulesButton" Content="View J48 Rules" HorizontalAlignment="Left" Margin="430,230,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="J48RulesButton_Click"/>
+
+    </Grid>
+</Window>

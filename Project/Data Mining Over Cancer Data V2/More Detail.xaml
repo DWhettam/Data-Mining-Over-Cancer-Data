@@ -1,0 +1,36 @@
+﻿<Window x:Class="Data_Mining_Over_Cancer_Data_V2.More_Detail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        xmlns:local="clr-namespace:Data_Mining_Over_Cancer_Data_V2"
+        mc:Ignorable="d"
+        Title="More_Detail" Height="313.377" Width="720.323">
+    <Grid>
+        <Label x:Name="CancerLabel" Content="Distance to Cancer" HorizontalAlignment="Left" Margin="107,45,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="PatientIDLabel" Content="Patient ID: " HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="PatientID" Content="" HorizontalAlignment="Left" Margin="84,8,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.103,0.049" FontWeight="Bold"/>
+        <Label x:Name="PolypLabel" Content="Distance to Polyp" HorizontalAlignment="Left" Margin="254,45,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="NormalLabel" Content="Distance to Normal" HorizontalAlignment="Left" Margin="552,45,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="InfectionLabel" Content="Distance to Infection" HorizontalAlignment="Left" Margin="395,45,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="MinLabel" Content="Minimum:" HorizontalAlignment="Left" Margin="26,89,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="MaxLael" Content="Maximum:" HorizontalAlignment="Left" Margin="26,130,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="MeanLabel" Content="Mean:" HorizontalAlignment="Left" Margin="26,173,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="CancerMin" Content="Label" HorizontalAlignment="Left" Margin="107,89,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NormalMean" Content="Label" HorizontalAlignment="Left" Margin="545,173,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="InfectionMean" Content="Label" HorizontalAlignment="Left" Margin="400,173,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PolypMean" Content="Label" HorizontalAlignment="Left" Margin="254,173,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.816,0.423"/>
+        <Label x:Name="NormalMax" Content="Label" HorizontalAlignment="Left" Margin="545,130,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="InfectionMax" Content="Label" HorizontalAlignment="Left" Margin="400,130,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PolypMax" Content="Label" HorizontalAlignment="Left" Margin="254,130,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CancerMean" Content="Label" HorizontalAlignment="Left" Margin="107,173,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CancerMax" Content="Label" HorizontalAlignment="Left" Margin="107,130,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="InfectionMin" Content="Label" HorizontalAlignment="Left" Margin="400,89,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NormalMin" Content="Label" HorizontalAlignment="Left" Margin="545,89,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PolypMin" Content="Label" HorizontalAlignment="Left" Margin="254,89,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BoxPotButton" Content="View Box Plot" HorizontalAlignment="Left" Margin="26,221,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="BoxPotButton_Click"/>
+        <Button x:Name="DensityPlotButton" Content="View Density Plot" HorizontalAlignment="Left" Margin="161,221,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="DensityPlotButton_Click"/>
+
+    </Grid>
+</Window>

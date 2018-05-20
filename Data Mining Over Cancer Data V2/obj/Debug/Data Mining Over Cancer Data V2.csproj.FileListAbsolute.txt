@@ -1,0 +1,196 @@
+E:\Users\Dan\My Documents\Visual Studio 2015\Projects\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe.config
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe.config
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.cache
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.lref
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.g.resources
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data_V2.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.exe
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data Mining Over Cancer Data V2\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+G:\Modules\Project\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe.config
+G:\Modules\Project\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe
+G:\Modules\Project\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.pdb
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.cache
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.lref
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.g.resources
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data_V2.Properties.Resources.resources
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.exe
+G:\Modules\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe.config
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.cache
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.lref
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.g.resources
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data_V2.Properties.Resources.resources
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.exe
+C:\Users\510284\Project\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe.config
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.cache
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.lref
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.g.resources
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data_V2.Properties.Resources.resources
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.exe
+C:\Users\510284\Desktop\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe.config
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.exe
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data V2.pdb
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.cache
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2_MarkupCompile.lref
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.g.resources
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data_V2.Properties.Resources.resources
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.exe
+E:\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.pdb
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe.config
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.pdb
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.cache
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.lref
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.g.resources
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data.Properties.Resources.resources
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.Cache
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.exe
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe.config
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.cache
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.lref
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.g.resources
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.exe
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.pdb
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.dll
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.pdb
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.xml
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.dll
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.xml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.baml
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.baml
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe.config
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.exe
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.pdb
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.g.cs
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.g.cs
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.cache
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.lref
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CopyComplete
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.baml
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.g.cs
+C:\Users\dwhet\Desktop\Projects\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.g.cs
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.baml
+C:\Users\Daniel\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.baml
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.g.cs
+C:\Users\cssdnd\Dropbox\DND15-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe.config
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.exe
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\Data Mining Over Cancer Data.pdb
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.dll
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.pdb
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.xml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csprojResolveAssemblyReference.cache
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\App.g.cs
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.cache
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data_MarkupCompile.lref
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DensityPlots.baml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\DistancePlots.baml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\J48Rules.baml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\MainWindow.baml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\More Detail.baml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\NNgeRules.baml
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.g.resources
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data_Mining_Over_Cancer_Data.Properties.Resources.resources
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.GenerateResource.cache
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CoreCompileInputs.cache
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data V2.csproj.CopyComplete
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.exe
+C:\Users\dwhet\Dropbox\Uni\DND3-201503386-Whettam\Project\Data-Mining-Over-Cancer-Data\Data Mining Over Cancer Data V2\obj\Debug\Data Mining Over Cancer Data.pdb
