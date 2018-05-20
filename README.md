@@ -3,6 +3,8 @@ The report for this project can be found in [releases](https://github.com/DWhett
 
 The Data used for this project is of a clinical nature and cannot be made available. Consequently, the public version of this project is not functional as the dataset is required.
 
+-----------------------------------------------
+
 This project is an attempt to provide a usable tool for health clinicians when diagnosing bowel cancer.
 Three key data mining algorithms are used, which are outlined below. Each algorithm is considered independently and collectively to provide a recommended diagnosis to a clinician. Recommendations fall into one of four categories, making this a classification problem. These are:
 Cancer,
