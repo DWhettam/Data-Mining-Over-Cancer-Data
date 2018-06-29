@@ -1,4 +1,4 @@
-# Data-Mining-Over-Cancer-Data
+# Data Mining Over Cancer Data
 The report for this project can be found in [releases](https://github.com/DWhettam/Data-Mining-Over-Cancer-Data/releases)
 
 The Data used for this project is of a clinical nature and cannot be made available. Consequently, the public version of this project is not functional as the dataset is required.
